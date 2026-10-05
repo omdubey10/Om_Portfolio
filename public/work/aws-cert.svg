@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560">
+  <rect width="960" height="560" fill="#3a2a18"/>
+  <rect width="14" height="560" fill="#ff9900"/>
+  <text x="56" y="180" fill="#ff9900" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="6">CERTIFICATION</text>
+  <text x="56" y="270" fill="#e2e0d4" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">Data Engineering</text>
+  <text x="56" y="340" fill="#e2e0d4" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">on AWS</text>
+  <text x="56" y="450" fill="#c8b8a0" font-family="Arial, Helvetica, sans-serif" font-size="22">Foundations � 2026</text>
+</svg>
