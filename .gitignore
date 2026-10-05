@@ -1,0 +1,10 @@
+node_modules/
+dist/
+_seif-src/
+.DS_Store
+.env
+.env.*
+.vercel
+*.local
+.cache/
+_site/

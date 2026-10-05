@@ -1,0 +1,12 @@
+node_modules
+_seif-src
+dist
+_site
+.cache
+assets/uploads
+tina
+_includes
+_data
+projects
+.eleventy.js
+netlify.toml
